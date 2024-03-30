@@ -1,5 +1,5 @@
 <a href="https://discord.com/users/1148068995409379380" target="_blank">
-	<img width="50%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1148068995409379380?bg=1f1f1f&borderRadius=5px">
+	<img width="50%" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1148068995409379380?bg=cac2eb&borderRadius=5px">
 </a>
 
 <a href="https://wakatime.com/@DayannaJS" target="_blank">
